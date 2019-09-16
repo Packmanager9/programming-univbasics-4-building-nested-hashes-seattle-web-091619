@@ -4,5 +4,6 @@ def base_hash
 monopoly =  {
   :railroads=> "hi"
 }
+puts monopoly
 monopoly
 end
