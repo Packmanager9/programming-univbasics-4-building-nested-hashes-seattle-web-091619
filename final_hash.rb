@@ -7,4 +7,6 @@ monopoly =  {
 
   }
 }
+puts monopoly
+monopoly
 end
