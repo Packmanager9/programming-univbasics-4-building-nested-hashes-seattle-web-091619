@@ -5,3 +5,6 @@ monopoly[:railroads=>{}]
 puts monopoly
 monopoly
 end
+monopoly[:railroads=>{}]
+puts monopoly
+monopoly
